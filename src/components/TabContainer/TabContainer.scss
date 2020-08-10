@@ -1,0 +1,54 @@
+.tabs-wrapper-container{
+  width: 100%;
+  padding: 25px;
+
+}
+
+.tabs-btn{
+  width: 100%;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin: 0 auto 25px auto;
+
+    .btn{
+      min-width: 200px;
+    }
+}
+
+.item-row{
+  cursor: pointer;
+  text-align: center;
+
+      td{
+        padding: 10px;
+      }
+
+    .active {
+      background-color: #ccc;
+    }
+}
+
+thead{
+  text-align: center;
+
+    th{
+      padding: 10px 0;
+      cursor: pointer;
+      text-align: center;
+      font-size: 14px;
+
+        :last-child{
+          cursor: default;
+        }
+    }
+}
+
+img.arrow-sort{
+  width: 14px;
+}
+
+.arrow-sort-up{
+  width: 14px;
+  transform: rotate(-180deg);
+}

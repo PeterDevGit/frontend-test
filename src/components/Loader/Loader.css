@@ -1,0 +1,80 @@
+@keyframes ldio-l50em076w {
+    0% { opacity: 1 }
+    100% { opacity: 0 }
+}
+
+.ldio-l50em076w div {
+    left: 99px;
+    top: 67px;
+    position: absolute;
+    animation: ldio-l50em076w linear 1s infinite;
+    background: #ff7518;
+    width: 2px;
+    height: 14px;
+    border-radius: 1px / 3.92px;
+    transform-origin: 1px 33px;
+}
+
+.ldio-l50em076w div:nth-child(1) {
+     transform: rotate(0deg);
+     animation-delay: -0.8888888888888888s;
+     background: #ff7518;
+ }
+
+.ldio-l50em076w div:nth-child(2) {
+      transform: rotate(40deg);
+      animation-delay: -0.7777777777777778s;
+      background: #ff7518;
+  }.ldio-l50em076w div:nth-child(3) {
+       transform: rotate(80deg);
+       animation-delay: -0.6666666666666666s;
+       background: #ff7518;
+   }.ldio-l50em076w div:nth-child(4) {
+        transform: rotate(120deg);
+        animation-delay: -0.5555555555555556s;
+        background: #ff7518;
+    }.ldio-l50em076w div:nth-child(5) {
+         transform: rotate(160deg);
+         animation-delay: -0.4444444444444444s;
+         background: #ff7518;
+     }.ldio-l50em076w div:nth-child(6) {
+          transform: rotate(200deg);
+          animation-delay: -0.3333333333333333s;
+          background: #ff7518;
+      }.ldio-l50em076w div:nth-child(7) {
+           transform: rotate(240deg);
+           animation-delay: -0.2222222222222222s;
+           background: #ff7518;
+       }.ldio-l50em076w div:nth-child(8) {
+            transform: rotate(280deg);
+            animation-delay: -0.1111111111111111s;
+            background: #ff7518;
+        }.ldio-l50em076w div:nth-child(9) {
+             transform: rotate(320deg);
+             animation-delay: 0s;
+             background: #ff7518;
+         }
+
+.loadingio-spinner-spinner-h4e1hdzgp0k {
+    top: 0;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.8);
+    justify-content: center;
+}
+
+.ldio-l50em076w {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    transform: translateZ(0) scale(1);
+    backface-visibility: hidden;
+    transform-origin: 0 0; /* see note above */
+}
+
+.ldio-l50em076w div { box-sizing: content-box; }

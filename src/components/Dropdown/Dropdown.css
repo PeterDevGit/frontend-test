@@ -1,0 +1,31 @@
+.selected-dropdown{
+    width: 100%;
+    position: relative;
+}
+
+.bt-dropdown-group{
+    width: 100%;
+    right: 0;
+    z-index: 1;
+    top: -60px;
+    max-width: 100px;
+    position: absolute;
+}
+
+.dropdow-list{
+    margin: 0;
+    padding: 0;
+}
+
+li.btn.btn-primary{
+    display: block;
+    width: 100%;
+}
+
+.dropdown-toggle{
+    top: 5px;
+    right: 5px;
+    float: right;
+    display: block;
+    position: absolute;
+}
